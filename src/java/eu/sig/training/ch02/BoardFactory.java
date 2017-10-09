@@ -1,5 +1,6 @@
 package eu.sig.training.ch02;
 
+//class BoardFactory
 public class BoardFactory {
     // tag::createBoard[]
     public Board createBoard(Square[][] grid) {
